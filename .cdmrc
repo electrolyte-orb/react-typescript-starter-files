@@ -1,0 +1,2 @@
+tabs: ['README.md', 'src/App.tsx']
+terminal-one: npm i && npm run dev
