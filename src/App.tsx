@@ -1,10 +1,9 @@
 export default function App() {
 	return (
 		<div>
-			<h1>Lets make a Counter.</h1>
-			<button>Increment</button>
-			<br />
-			<button>Decrement</button>
+			<h1>TooGoodTodo App</h1>
+			<input type="text" placeholder="Task" />
+			<button>Add</button>
 		</div>
 	);
 }
